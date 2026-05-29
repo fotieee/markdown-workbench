@@ -2,6 +2,8 @@
 
 Markdown Workbench 是一个使用 Electron + React 构建的本地 Markdown 阅读工作台，适合浏览电脑上的笔记、文档和技术资料。
 
+![Markdown Workbench 截图](docs/screenshot.png)
+
 ## 特性
 
 - 打开单个 Markdown 文件，或打开文件夹作为工作区

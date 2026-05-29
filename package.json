@@ -8,6 +8,7 @@
     "build": "vite build",
     "dist": "npm run build && electron-builder --win",
     "pack": "npm run build && electron-builder --dir",
+    "screenshot": "npm run build && electron scripts/capture-screenshot.cjs",
     "start": "electron .",
     "preview": "vite preview --host 127.0.0.1"
   },
