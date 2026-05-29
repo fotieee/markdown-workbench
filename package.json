@@ -21,6 +21,14 @@
   ],
   "author": "Markdown Workbench contributors",
   "license": "MIT",
+  "homepage": "https://github.com/fotieee/markdown-workbench#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fotieee/markdown-workbench.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fotieee/markdown-workbench/issues"
+  },
   "engines": {
     "node": ">=14.21.0"
   },
